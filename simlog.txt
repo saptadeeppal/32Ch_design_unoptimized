@@ -1,0 +1,99 @@
+Vector failed for port: ch31_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch30_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch29_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch28_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch27_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch26_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch25_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch24_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch23_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch22_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch21_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch20_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch19_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch18_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch17_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch16_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch15_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch14_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch13_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch12_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch11_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch10_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch9_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch8_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch7_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch6_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch5_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch4_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch3_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch2_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch1_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Vector failed for port: ch0_x_lin
+Expecting: 000000101110011000101
+Actual:    000000101110011000110
+Mismatch at clk cycle no:        1220
+--------------------------------------
+Failed with          1 mismatches and         40 matches

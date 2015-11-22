@@ -1,0 +1,235 @@
+{E:/A Material/Quarter_Fall_2015/EE216A/Project/mean_selection.v} {1 {vlog -work work -vopt {E:/A Material/Quarter_Fall_2015/EE216A/Project/mean_selection.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module mean_selection
+
+Top level modules:
+	mean_selection
+
+} {} {}} {E:/A Material/Quarter_Fall_2015/EE216A/Project/smc_float_to_fp.v} {1 {vlog -work work -vopt {E:/A Material/Quarter_Fall_2015/EE216A/Project/smc_float_to_fp.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module x2_i
+-- Compiling module FP_to_Fixed
+-- Compiling module smc_float_to_fp
+
+Top level modules:
+	smc_float_to_fp
+
+} {} {}} {E:/A Material/Quarter_Fall_2015/EE216A/Project/coeff_reg.v} {1 {vlog -work work -vopt {E:/A Material/Quarter_Fall_2015/EE216A/Project/coeff_reg.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module coeff_comparator
+
+Top level modules:
+	coeff_comparator
+
+} {} {}} {E:/A Material/Quarter_Fall_2015/EE216A/Project/mean_std_selection.v} {1 {vlog -work work -vopt {E:/A Material/Quarter_Fall_2015/EE216A/Project/mean_std_selection.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module std_selection
+
+Top level modules:
+	std_selection
+
+} {} {}} {E:/A Material/Quarter_Fall_2015/EE216A/Project/delay_sync.v} {1 {vlog -work work -vopt {E:/A Material/Quarter_Fall_2015/EE216A/Project/delay_sync.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module delay_sync
+
+Top level modules:
+	delay_sync
+
+} {} {}} {E:/A Material/Quarter_Fall_2015/EE216A/Project/delay_sum_block.v} {1 {vlog -work work -vopt {E:/A Material/Quarter_Fall_2015/EE216A/Project/delay_sum_block.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module delay_sum_block
+
+Top level modules:
+	delay_sum_block
+
+} {} {}} {E:/A Material/Quarter_Fall_2015/EE216A/Project/define.h} {1 {sccom -work work {E:/A Material/Quarter_Fall_2015/EE216A/Project/define.h}
+
+} {} {}} {E:/A Material/Quarter_Fall_2015/EE216A/Project/smc_float_multiplier.v} {1 {vlog -work work -vopt {E:/A Material/Quarter_Fall_2015/EE216A/Project/smc_float_multiplier.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module x1_i
+-- Compiling module z1_o
+-- Compiling module FP_Multiplier
+-- Compiling module smc_float_multiplier
+
+Top level modules:
+	smc_float_multiplier
+
+} {} {}} {E:/A Material/Quarter_Fall_2015/EE216A/Project/NLC_4sec_10th_order_32ch_v0.v} {1 {vlog -work work -vopt {E:/A Material/Quarter_Fall_2015/EE216A/Project/NLC_4sec_10th_order_32ch_v0.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module NLC_4sec_10th_order_32ch_v0
+
+Top level modules:
+	NLC_4sec_10th_order_32ch_v0
+
+} {} {}} {E:/A Material/Quarter_Fall_2015/EE216A/Project/smc_float_adder.v} {1 {vlog -work work -vopt {E:/A Material/Quarter_Fall_2015/EE216A/Project/smc_float_adder.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module FP_Adder_getmsbpos1_LZDPstg2_1
+-- Compiling module FP_Adder_getmsbpos1_LZDPstg1_2
+-- Compiling module FP_Adder_getmsbpos1_LZDPstg1_1
+-- Compiling module FP_Adder_getmsbpos1_LZDP1
+-- Compiling module FP_Adder_getmsbpos1_LZDP2
+-- Compiling module FP_Adder_getmsbpos1_LZDP3
+-- Compiling module FP_Adder_getmsbpos1_LZDP4
+-- Compiling module FP_Adder_getmsbpos1_LZDP5
+-- Compiling module FP_Adder_getmsbpos1_LZDP6
+-- Compiling module FP_Adder_getmsbpos1_LZDPstg2_2
+-- Compiling module FP_Adder_getmsbpos1_LZDPstg1_3
+-- Compiling module FP_Adder_getmsbpos1
+-- Compiling module x_i
+-- Compiling module z_o
+-- Compiling module FP_Adder
+-- Compiling module smc_float_adder
+
+Top level modules:
+	smc_float_adder
+
+} {} {}} {E:/A Material/Quarter_Fall_2015/EE216A/Project/coeff_register.v} {1 {vlog -work work -vopt {E:/A Material/Quarter_Fall_2015/EE216A/Project/coeff_register.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module coeff_register
+
+Top level modules:
+	coeff_register
+
+} {} {}} {E:/A Material/Quarter_Fall_2015/EE216A/Project/fp_to_smc_float.v} {1 {vlog -work work -vopt {E:/A Material/Quarter_Fall_2015/EE216A/Project/fp_to_smc_float.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Fixed_to_FP_Leading_Zero_Counter1_LZDPstg1_1
+-- Compiling module Fixed_to_FP_Leading_Zero_Counter1_LZDP1
+-- Compiling module Fixed_to_FP_Leading_Zero_Counter1_LZDP2
+-- Compiling module Fixed_to_FP_Leading_Zero_Counter1_LZDP3
+-- Compiling module Fixed_to_FP_Leading_Zero_Counter1_LZDPodd
+-- Compiling module Fixed_to_FP_Leading_Zero_Counter1_LZDPstg1_2
+-- Compiling module Fixed_to_FP_Leading_Zero_Counter2_LZDPstg2_1
+-- Compiling module Fixed_to_FP_Leading_Zero_Counter2_LZDPstg1_3
+-- Compiling module Fixed_to_FP_Leading_Zero_Counter2_LZDPstg1_2
+-- Compiling module Fixed_to_FP_Leading_Zero_Counter2_LZDP3
+-- Compiling module Fixed_to_FP_Leading_Zero_Counter2_LZDP4
+-- Compiling module Fixed_to_FP_Leading_Zero_Counter2_LZDP5
+-- Compiling module Fixed_to_FP_Leading_Zero_Counter2_LZDP6
+-- Compiling module Fixed_to_FP_Leading_Zero_Counter2_LZDP7
+-- Compiling module Fixed_to_FP_Leading_Zero_Counter2_LZDP8
+-- Compiling module Fixed_to_FP_Leading_Zero_Counter2_LZDPodd
+-- Compiling module Fixed_to_FP_Leading_Zero_Counter2_LZDPstg3_1
+-- Compiling module Fixed_to_FP_Leading_Zero_Counter2_LZDPstg1_4
+-- Compiling module Fixed_to_FP_Leading_Zero_Counter1
+-- Compiling module Fixed_to_FP_Leading_Zero_Counter2
+-- Compiling module Fixed_to_FP_log2
+-- Compiling module y_o
+-- Compiling module Fixed_to_FP
+-- Compiling module fp_to_smc_float
+
+Top level modules:
+	fp_to_smc_float
+
+} {} {}} {E:/A Material/Quarter_Fall_2015/EE216A/Project/std_selection.v} {1 {vlog -work work -vopt {E:/A Material/Quarter_Fall_2015/EE216A/Project/std_selection.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module std_selection
+
+Top level modules:
+	std_selection
+
+} {} {}} {E:/A Material/Quarter_Fall_2015/EE216A/Project/coeff_selection.v} {1 {vlog -work work -vopt {E:/A Material/Quarter_Fall_2015/EE216A/Project/coeff_selection.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module coeff_selection
+
+Top level modules:
+	coeff_selection
+
+} {} {}} {E:/A Material/Quarter_Fall_2015/EE216A/Project/control.v} {1 {vlog -work work -vopt {E:/A Material/Quarter_Fall_2015/EE216A/Project/control.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module control
+
+Top level modules:
+	control
+
+} {} {}} {E:/A Material/Quarter_Fall_2015/EE216A/Project/SynLib.v} {1 {vlog -work work -vopt {E:/A Material/Quarter_Fall_2015/EE216A/Project/SynLib.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module synAddSub
+-- Compiling module synMult
+-- Compiling module synBusAdapter
+-- Compiling module synBusAdapter_sat
+-- Compiling module synGain
+-- Compiling module synBusSatRnd
+-- Compiling module synBusSatRnd_sat
+-- Compiling module singleDelayWithEnableGeneric
+-- Compiling module synDelayWithEnableGeneric
+-- Compiling module synDelayWithEnable
+-- Compiling module synRobustLatch
+-- Compiling module synMux
+-- Compiling module synCounter
+-- Compiling module synCounterSync
+-- Compiling module synCounterFR
+-- Compiling module synCounterMC
+-- Compiling module synCounterFRMC
+-- Compiling module synAccumulator
+-- Compiling module synAccumulatorOvf
+-- Compiling module synAccumulatorMC
+-- Compiling module synAccumulatorMCOvf
+-- Compiling module synRegister
+-- Compiling module synStepFunction
+-- Compiling module synAbs
+-- Compiling module synBinLogic
+-- Compiling module synComparator
+-- Compiling module synInverter
+-- Compiling module synNegate
+-- Compiling module synShifter
+-- Compiling module synShifterR
+-- Compiling module synFIFO
+-- Compiling module synMultiRateFIFO
+-- Compiling module synSRL
+-- Compiling module synCSAUnit
+-- Compiling module synPipelinedAdd
+-- Compiling module synRegister_MC
+-- Compiling module synFIFO_MC
+-- Compiling module synDownsampleSimple
+
+Top level modules:
+	synAddSub
+	synMult
+	synBusAdapter
+	synBusAdapter_sat
+	synGain
+	synRobustLatch
+	synMux
+	synCounter
+	synCounterSync
+	synCounterFR
+	synCounterMC
+	synCounterFRMC
+	synAccumulator
+	synAccumulatorOvf
+	synAccumulatorMC
+	synAccumulatorMCOvf
+	synRegister
+	synStepFunction
+	synAbs
+	synBinLogic
+	synComparator
+	synInverter
+	synNegate
+	synShifter
+	synShifterR
+	synMultiRateFIFO
+	synSRL
+	synCSAUnit
+	synPipelinedAdd
+	synRegister_MC
+	synFIFO_MC
+	synDownsampleSimple
+
+} {} {}} {E:/A Material/Quarter_Fall_2015/EE216A/Project/NLC_32ch.v} {1 {vlog -work work -vopt {E:/A Material/Quarter_Fall_2015/EE216A/Project/NLC_32ch.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module NLC_32ch
+
+Top level modules:
+	NLC_32ch
+
+} {} {}} {E:/A Material/Quarter_Fall_2015/EE216A/Project/NLC_4sec_10th_order_32ch_v0_Test.v} {1 {vlog -work work -vopt {E:/A Material/Quarter_Fall_2015/EE216A/Project/NLC_4sec_10th_order_32ch_v0_Test.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module clock_gen
+-- Compiling module clocks
+-- Compiling module test_NLC_4sec_10th_order_32ch_v0
+
+Top level modules:
+	test_NLC_4sec_10th_order_32ch_v0
+
+} {} {}}
